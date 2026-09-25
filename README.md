@@ -32,7 +32,7 @@ Repositories are currently being added and documented.
 
 Some of my academic projects include:
 
-- Undergraduate Thesis: Multi-Criteria Handover Optimization in LEO NTN
+-**Undergraduate Thesis:**  [Multi-Criteria Handover Optimization in LEO NTN](https://github.com/Ishrak-Anan/Undergraduate-Thesis-Multi-Criteria-Handover-Optimization-in-LEO-NTN)
 - MATLAB-Based Convolution & Correlation Visualizer
 - Electrical Building Design using AutoCAD
 - Power CMOS AI Circuit Design for Smart Food Packaging
