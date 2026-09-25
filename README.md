@@ -1,10 +1,10 @@
-# Hi, I'm Ishrak Anan 👋
+# Hi, I'm Ishrak Anan 
 
 Electrical & Electronic Engineering graduate from the **Islamic University of Technology (IUT)** with interests in embedded systems, signal processing, machine learning, communication networks, and hardware design.
 
 My academic work spans software simulation, microcontroller-based systems, electrical design, CMOS/VLSI concepts, and research on handover optimization for Low Earth Orbit Non-Terrestrial Networks.
 
-## 🔬 Research
+##  Research
 
 **Undergraduate Thesis:**  
 Multi-Criteria Handover Optimization in LEO NTN
@@ -14,7 +14,7 @@ Multi-Criteria Handover Optimization in LEO NTN
 - Multi-criteria handover decision framework
 - Python-based simulation and sensitivity analysis
 
-## 🛠️ Technical Areas
+##  Technical Areas
 
 - Embedded Systems & Microcontrollers
 - MATLAB & Signal Processing
@@ -26,7 +26,7 @@ Multi-Criteria Handover Optimization in LEO NTN
 - AutoCAD
 - CMOS & VLSI Fundamentals
 
-## 📌 Selected Projects
+##  Selected Projects
 
 Repositories are currently being added and documented.
 
