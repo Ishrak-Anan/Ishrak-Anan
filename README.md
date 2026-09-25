@@ -9,10 +9,10 @@ My academic work spans software simulation, microcontroller-based systems, elect
 **Undergraduate Thesis:**  
 Multi-Criteria Handover Optimization in LEO NTN
 
-- LEO satellite mobility and handover management
-- Starlink TLE-based orbital analysis
-- Multi-criteria handover decision framework
-- Python-based simulation and sensitivity analysis
+- Developed and evaluated a multi-criteria handover framework for dense LEO satellite networks
+- Used real Starlink TLE data with Python and Skyfield for orbital propagation
+- Compared the proposed method with HEA, LVT, and Highest-SINR policies
+- Conducted Doppler, visibility-time, and weighting sensitivity analyses
 
 ##  Technical Areas
 
